@@ -8,7 +8,7 @@ For this unit we'll use a repository I've created called [CHS AP Computer Scienc
 
 By the time you have completed this unit you should be able to:
 
-* Creating a _fork_ of a repository.
+* Creating a [_fork_][2] of a repository.
 * Creating a _pull request_.
 * Creating an _issue_.
 
@@ -22,3 +22,4 @@ By the time you have completed this unit you should be able to:
 1. "Fix" an issue and create a pull request for your fix.
 
 [1]: https://github.com/DouglasUrner/CHS-AP-Computer-Science-Resources-2016
+[2]:
