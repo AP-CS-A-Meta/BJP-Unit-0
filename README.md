@@ -8,12 +8,12 @@ For this unit we'll use a repository I've created called [CHS AP Computer Scienc
 
 By the time you have completed this unit you should be able to:
 
-* Creating a [_fork_][2] of a repository.
-* Creating a _pull request_.
-* Creating an _issue_.
+* Create a [_fork_][2] of a repository.
+* Create a [_pull request_][3].
+* Create an [_issue_][4].
 
 # Tasks
-
+1. Start off by going through the GitHub introductory guide, [Hello, World!][5].
 1. Create a fork of the repository.
 1. Add links to helpful resources that you've found.
 1. Create a pull request to have your changes added.
@@ -23,3 +23,6 @@ By the time you have completed this unit you should be able to:
 
 [1]: https://github.com/DouglasUrner/CHS-AP-Computer-Science-Resources-2016
 [2]: https://guides.github.com/activities/forking
+[3]: https://guides.github.com/activities/hello-world/#pr
+[4]: https://guides.github.com/activities/contributing-to-open-source/#contributing
+[5]: https://guides.github.com/activities/hello-world
