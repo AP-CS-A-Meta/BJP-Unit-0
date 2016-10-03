@@ -24,5 +24,5 @@ By the time you have completed this unit you should be able to:
 [1]: https://github.com/DouglasUrner/CHS-AP-Computer-Science-Resources-2016
 [2]: https://guides.github.com/activities/forking
 [3]: https://guides.github.com/activities/hello-world/#pr
-[4]: https://guides.github.com/activities/contributing-to-open-source/#contributing
+[4]: https://guides.github.com/features/issues
 [5]: https://guides.github.com/activities/hello-world
