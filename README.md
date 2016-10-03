@@ -13,7 +13,7 @@ By the time you have completed this unit you should be able to:
 * Create an [_issue_][4].
 
 # Tasks
-1. Start off by going through the GitHub introductory guide, [Hello, World!][5].
+1. Start off by going through the GitHub introductory guide, [Hello, World][5].
 1. Create a fork of the resources repository (the link is in the unit description above).
 1. Add links to helpful resources that you've found.
 1. Create a pull request to have your changes added.
