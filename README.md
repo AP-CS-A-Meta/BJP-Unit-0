@@ -22,4 +22,4 @@ By the time you have completed this unit you should be able to:
 1. "Fix" an issue and create a pull request for your fix.
 
 [1]: https://github.com/DouglasUrner/CHS-AP-Computer-Science-Resources-2016
-[2]:
+[2]: https://guides.github.com/activities/forking
